@@ -10,3 +10,6 @@ solve("xyab","xzca") = "ybzc"
 Notice also that you return the characters from the first string 
 concatenated with those from the second string.
 */
+
+
+// Solution

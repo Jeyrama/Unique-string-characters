@@ -13,3 +13,4 @@ concatenated with those from the second string.
 
 
 // Solution
+

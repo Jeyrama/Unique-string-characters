@@ -14,3 +14,6 @@ concatenated with those from the second string.
 
 // Solution
 
+function solve(a,b){
+  return (a+b).split("").filter(c => !a.includes(c) || !b.includes(c)).join("");
+ };
